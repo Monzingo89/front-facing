@@ -1,8 +1,7 @@
 {
-  "name": "vcv-landing",
+  "name": "vcv-public",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://monzingo89.github.io/front-facing",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

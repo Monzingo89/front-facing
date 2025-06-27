@@ -1,5 +1,15 @@
 {
   "projects": {
-    "default": "vcv-public-facing"
-  }
+    "default": "vcv-public"
+  },
+  "targets": {
+    "vcv-public-facing": {
+      "hosting": {
+        "vcv-public": [
+          "vcv-public"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
