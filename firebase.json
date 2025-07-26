@@ -1,12 +1,13 @@
 {
   "hosting": {
-      "target": "vcv-public",
-      "public": "dist",
-
-      "ignore": [
-          "firebase.json",
-          "**/.*",
-          "**/node_modules/**"
-      ]
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-central1"
     }
+  }
 }

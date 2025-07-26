@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "vcv-public"
+    "default": "vcv-public-facing"
   },
   "targets": {
     "vcv-public-facing": {
